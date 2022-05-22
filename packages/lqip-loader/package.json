@@ -24,7 +24,7 @@
     "tslib": "^2.4.0"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=14.15"
   },
   "devDependencies": {
     "@types/sharp": "^0.30.2"
